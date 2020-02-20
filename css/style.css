@@ -1003,13 +1003,13 @@ button:hover {
 /*Подвал*/
 
 .logo-footer {
-  display: block;
   width: 190px;
   height: 48px;
   margin-top: 257px;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 50px;
+  z-index: 2;
 }
 
 .batton-download {
