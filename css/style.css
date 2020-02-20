@@ -1093,6 +1093,7 @@ button:hover {
 
 .block-footer-fonds {
   display: flex;
+  flex-direction: column;
   background-image: url("../images/game_1280.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
