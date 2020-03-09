@@ -304,27 +304,27 @@ body {
 }
 
 .text-batton {
-    display: flex;
-    flex-direction: column;
-    height: 40px;
-    font-size: 14px;
-    letter-spacing: 1px;
-    color: #ffffff;
-    font-family: "OpenSans-Regular";
-    font-style:normal;
-    font-weight: 400;
-    text-transform:uppercase;
-    align-items: flex-start;
+   display: flex;
+   flex-direction: column;
+   height: 40px;
+   font-size: 14px;
+   letter-spacing: 1px;
+   color: #ffffff;
+   font-family: "OpenSans-Regular";
+   font-style:normal;
+   font-weight: 400;
+   text-transform:uppercase;
+   align-items: flex-start;
 }
 
 .text-batton-two {
-	display: flex;
-	align-items: flex-start;
-	font-family: "OpenSans-bold";
-  font-style: normal;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+   display: flex;
+   align-items: flex-start;
+   font-family: "OpenSans-bold";
+   font-style: normal;
+   font-weight: 700;
+   text-transform: uppercase;
+   letter-spacing: 1px;
 }
 
 /*Блорк нвостей Спорт*/
@@ -346,7 +346,7 @@ body {
  }
 
 .title-chapter-basketbal {
-  margin-left: 10%;
+  margin-left: 10vw;
   margin-top: 25px;
   font-size: 80px;
   line-height: 60px;
@@ -534,7 +534,7 @@ body {
   left: 42%;
   height: 815px;
   position: absolute;
-  top: 90px;
+  top: 35px;
 }
 
 .block-basketbal-one {
