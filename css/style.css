@@ -809,7 +809,7 @@ body {
 
 .footer-block-news {
   display: flex;
-  width: 100vw;
+  widht: 100vw;
   flex-direction: column;
   background-image: url("../img/game_1280.jpg");
   background-size: 100% 100%;
