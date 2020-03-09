@@ -809,7 +809,7 @@ body {
 
 .footer-block-news {
   display: flex;
-  widht: 100vw;
+  width: 100vw;
   flex-direction: column;
   background-image: url("../img/game_1280.jpg");
   background-size: 100% 100%;
@@ -819,7 +819,6 @@ body {
   position: relative;
   padding: 0;
   margin: 0;
- widht: 100vw;	
 }
 
 .footer-block-news::after {
