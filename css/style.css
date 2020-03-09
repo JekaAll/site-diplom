@@ -250,6 +250,10 @@ body {
   justify-content: space-between;
 }
 
+.svg {
+  
+}
+
 .header-button:nth-child(1n) {
    justify-content: space-between;
 }
@@ -342,7 +346,7 @@ body {
  }
 
 .title-chapter-basketbal {
-  margin-left: 10vw;
+  margin-left: 10%;
   margin-top: 25px;
   font-size: 80px;
   line-height: 60px;
@@ -496,6 +500,24 @@ body {
   flex-direction: column;
   margin-top: 118px;
   width: 100%;
+}
+
+.two,
+.one,
+.three,
+.heading {
+  display: flex;
+  width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pic {
+  display: flex;
+  width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: flex-end;
 }
 
 .basketbal-plaer {
