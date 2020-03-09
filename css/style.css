@@ -200,14 +200,13 @@ body {
 }
 
 .header-content {
-	display: flex;
-	flex-direction: column;
+  display: flex;
+  flex-direction: column;
   z-index: 1;
   position: relative;
 }
 
 .logo {
-    display: flex;
     position: relative;
     width: 190px;
     height: 55px;
@@ -719,7 +718,6 @@ body {
 
 
 .logo-footer {
-  display: flex;
   width: 195px;
   height: 55px;
   margin-top: 257px;
@@ -1120,7 +1118,7 @@ body {
 
   .logo {
     padding-top: 34px;
-    width: auto;
+    width: 134px;
     height: 38px;
   }
 
