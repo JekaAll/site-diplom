@@ -1298,7 +1298,7 @@ body {
 
     .picture-men {
       display: flex;
-      width: auto;
+      width: 100%;
       height: 351px;
       min-width: 320px;    
     }
