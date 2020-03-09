@@ -701,6 +701,7 @@ body {
   align-self: end;
   margin-right: 115px;
   max-width: 635px;
+  margin-left: auto;	
 }
 
 .text {
