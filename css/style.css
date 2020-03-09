@@ -1298,12 +1298,13 @@ body {
 
     .picture-men {
       display: flex;
-      width: 320px;
+      width: auto;
       height: 351px;
+      min-width: 320px;    
     }
 
    .picture {
-     width: 320px;
+     width: 100%;
      height: 350px;
    }
 
