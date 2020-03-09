@@ -1299,6 +1299,7 @@ body {
     display: flex;
     flex-grow: 1;
     flex-direction: column;
+    height: 565px;
   }
 
     .picture-men {
@@ -1356,7 +1357,6 @@ body {
   .text-block, 
   .text-block-coach {
     margin-top: 35px;
-    margin-bottom: 80px;
     margin-left: 20px;
     margin-right: 0;
     align-self: flex-start;
@@ -1370,6 +1370,7 @@ body {
 
   .batton-download {
     margin-top: 98px;
+    flex-direction: column;
   }
 
   .footer-batton {
@@ -1419,7 +1420,92 @@ body {
   }
 
 
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
