@@ -502,7 +502,7 @@ body {
   display: flex;
   flex-direction: column;
   margin-top: 118px;
-  width: 100%;
+  width: 100vw;
 }
 
 .two,
