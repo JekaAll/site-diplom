@@ -571,6 +571,10 @@ body {
   margin-right: 50%;
 }
 
+  .number-connection-basketbal {
+    margin: 80px 0 0 0;
+  }
+
 .text-basketbal-one {
   padding-right: 35%;
 }
@@ -1291,10 +1295,6 @@ body {
     flex-direction: column;
     align-self: center;
     line-height: normal;
-  }
-  
-  .number-connection-basketbal {
-    margin: 80px 0 0 0;
   }
 
   .news-block-men, 
