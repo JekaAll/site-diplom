@@ -345,6 +345,7 @@ body {
  }
 
 .title-chapter-basketbal {
+  display: flex;	
   margin-left: 10vw;
   margin-top: 25px;
   font-size: 80px;
@@ -515,8 +516,8 @@ body {
 
 .three {
   display: flex;
-  margin-left: auto;
-  margin-right: auto;
+  justify-content: flex-end;
+  margin-right: 60%;
 }
 
 .pic {
@@ -1026,7 +1027,7 @@ body {
     }
 
    .picture {
-     width: 50vw;
+     width: 100%;
      height: 584px;
    }
 
