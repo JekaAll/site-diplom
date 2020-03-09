@@ -185,7 +185,7 @@ body {
     background-size: cover;
     position: relative;
     padding-bottom: 110px;
-    width: 100%;
+    width: 100vw;
 }
 
 .block-header::after {
@@ -390,16 +390,19 @@ body {
 
 .block-one {
   display: flex;
+   width: 100vw;		
 }
 
 .block-two {
   display: flex;
   background-color: #f6f4fa;
+  width: 100vw;	
 }
 
 .block-three {
   display: flex;
-  background-color: #5e42b0;
+  background-color: #5e42b0; 
+  width: 100vw;	
 }
 
 .text-athlets {
@@ -539,16 +542,18 @@ body {
 
 .block-basketbal-one {
   display: flex;
-  width: 100%;
+   width: 100vw;	
 }
 
 .block-player-two {
   display: flex;
   background-color: #f5f6f7;
+  width: 100vw;		
 }
 
 .block-player-three {
   background-color: #0a0e34;
+  width: 100vw;	
 }
 
 .player-block-connection,
@@ -804,6 +809,7 @@ body {
 
 .footer-block-news {
   display: flex;
+  widht: 100vw;
   flex-direction: column;
   background-image: url("../img/game_1280.jpg");
   background-size: 100% 100%;
@@ -1114,7 +1120,7 @@ body {
 
   .logo {
     padding-top: 34px;
-    width: 133px;
+    width: auto;
     height: 38px;
   }
 
@@ -1184,6 +1190,7 @@ body {
     color: #e7e7e7;
     font-family: "Open Sans";
     font-weight: 700;
+    width: 100%
   }
 
   .basketbal-plaer {
