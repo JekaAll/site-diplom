@@ -595,7 +595,7 @@ body {
 
 .news-column {
   display: flex;
-  width: 100%;
+  width: 100vw;
   flex-direction: column;
 }
 
@@ -624,6 +624,7 @@ body {
 .news-block-two {
   display: flex;
   flex-grow: 1;
+  width: 100vw;	
 }
 
 .picture-men {
@@ -1025,7 +1026,7 @@ body {
     }
 
    .picture {
-     width: 100%;
+     width: 50vw;
      height: 584px;
    }
 
