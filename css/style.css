@@ -1271,6 +1271,10 @@ body {
     margin-right: auto;
   }
   
+  .player-block-growth {
+    margin-right: 50%;
+  }
+	
   .text-basketbal-one, 
   .text-basketbal, 
   .athlets-text-three {
