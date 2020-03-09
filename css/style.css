@@ -517,7 +517,8 @@ body {
 .three {
   display: flex;
   justify-content: flex-end;
-  margin-right: 60%;
+  margin-right: 62%;
+  margin-left: 10vw;
 }
 
 .pic {
