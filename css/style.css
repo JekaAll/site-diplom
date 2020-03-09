@@ -557,10 +557,13 @@ body {
 }
 
 .player-block-connection,
-.player-block-collaboration,
-.player-block-growth {
+.player-block-collaboration{
   margin-left: 10%;
   margin-bottom: 58px;
+}
+
+.player-block-growth {
+   margin-bottom: 58px;
 }
 
 .block-number-three {
