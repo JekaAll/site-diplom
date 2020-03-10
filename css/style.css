@@ -980,13 +980,7 @@ body {
     }
 
     .basketbal-plaer {
-      background-image: url("../img/basketballer_991.png");
-      width: 700px;
-      left: 45%;
-      height: 565px;
-      bottom: 145px;
-      display: flex;
-      justify-content: flex-end;
+      width: 561px;	    
     }
 
    .basketbal-block-text {
