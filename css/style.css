@@ -930,7 +930,11 @@ body {
    display: flex;
    margin-top: 40px;
  }
-
+ 	
+ .three {
+   display: unset;
+}
+	
  .block-number, 
  .block-number-growth {
   margin-right: 10px;
