@@ -511,10 +511,9 @@ body {
 }
 
 .three {
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 62%;
-  margin-left: 10vw;
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .pic {
@@ -560,7 +559,8 @@ body {
 }
 
 .player-block-growth {
-   margin-bottom: 58px;
+  margin-bottom: 58px;
+  margin-left: 10%;	
 }
 
 .block-number-three {
@@ -576,9 +576,9 @@ body {
   margin-right: 50%;
 }
 
-  .number-connection-basketbal {
-    margin: 80px 0 0 0;
-  }
+.number-connection-basketbal {
+  margin: 80px 0 0 0;
+}
 
 .text-basketbal-one {
   padding-right: 35%;
