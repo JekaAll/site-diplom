@@ -230,12 +230,13 @@ body {
 }
 
 .block-one-header {
-	display: flex;
+  display: flex;
 }
 
 .block-two-header{
-	display: flex;
+  display: flex;
   justify-content: flex-end;
+  padding-right: 20px
 }
 
 
@@ -243,7 +244,7 @@ body {
 
 .header-button {
   display: flex;
-	margin-top: 220px;
+  margin-top: 220px;
   flex-wrap: wrap;
   align-self: center;
   justify-content: space-between;
