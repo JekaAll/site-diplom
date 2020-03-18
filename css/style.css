@@ -21,7 +21,7 @@ h1 {
   font-size: 90px;
   line-height: 100px;
   color: #ffffff;
-  font-family: "Open Sans";
+  font-family: "OpenSans-Bold";
   font-weight: 700;
 }
 
@@ -29,7 +29,7 @@ h2 {
   font-size: 80px;
   line-height: 60px;
   color: #e7e7e7;
-  font-family: "Open Sans";
+  font-family: "OpenSans-Bold";
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -38,7 +38,7 @@ h3 {
   font-size: 36px;
   letter-spacing: 2px;
   color: #c1c1c1;
-  font-family: "Open Sans";
+  font-family: "OpenSans-Bold";
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -92,7 +92,7 @@ p {
     font-size: 50px;
     line-height: 60px;
     color: #e7e7e7;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
   }
 
@@ -101,7 +101,7 @@ p {
     letter-spacing: 1px;
     line-height: 34px;
     color: #e7e7e7;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
   }
 
@@ -180,7 +180,7 @@ body {
     letter-spacing: 5px;
     color:
     #ffffff;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
    
 }
@@ -211,8 +211,8 @@ body {
 }
 
 .icon {
-	width: 48px;
-	margin-right: 10px;
+  width: 48px;
+  margin-right: 10px;
 }
 
 .button-apple {
@@ -291,7 +291,7 @@ body {
   font-size: 80px;
   line-height: 60px;
   color:#e7e7e7;
-  font-family: "Open Sans";
+  font-family: "OpenSans-Bold";
   font-weight: 700;
   text-transform: uppercase;
  }
@@ -303,7 +303,7 @@ body {
   font-size: 80px;
   line-height: 60px;
   color:#e7e7e7;
-  font-family: "Open Sans";
+  font-family: "OpenSans-Bold";
   font-weight: 700;
   text-transform: uppercase;
  }
@@ -757,7 +757,7 @@ body {
   font-size: 30px;
   line-height: 34px;
   color: #a496ca;
-  font-family: "Open Sans";
+  font-family: "OpenSans-Regular";
   font-weight: 400;
   margin-left: 43px;
   text-transform: uppercase;
@@ -826,7 +826,7 @@ body {
     font-size: 64px;
     letter-spacing: 3px;
     color: #ffffff;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
   }
 
@@ -856,7 +856,7 @@ body {
     font-size: 80px;
     line-height: 60px;
     color:#e7e7e7;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
     text-transform: uppercase;
   }
@@ -867,7 +867,7 @@ body {
    font-size: 80px;
    line-height: 60px;
    color:#e7e7e7;
-   font-family: "Open Sans";
+   font-family: "OpenSans-Bold";
    font-weight: 700;
    text-transform: uppercase;
   }
@@ -908,7 +908,7 @@ body {
     margin-right: 10px;
     font-size: 18px;
     letter-spacing: 1px;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
     display: flex;
     flex-direction: column;
@@ -1041,7 +1041,7 @@ body {
     letter-spacing: 4px;
     line-height: 60px;
     color:#ffffff;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
     margin: 0;
   }
@@ -1052,7 +1052,7 @@ body {
     font-size: 36px;
     line-height: 60px;
     color:#a496ca;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Regular";
     font-weight: 400;
     text-align: center;
   }
@@ -1086,7 +1086,7 @@ body {
     letter-spacing: 1px;
     line-height: 31px;
     color: #ffffff;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
   }
 
@@ -1144,7 +1144,7 @@ body {
     font-size: 50px;
     line-height: 60px;
     color: #e7e7e7;
-    font-family: "Open Sans";
+    font-family: "OpenSans-Bold";
     font-weight: 700;
     width: 100%
   }
