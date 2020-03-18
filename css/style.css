@@ -1,40 +1,18 @@
 
 @font-face {
-    src:  
-   url("../fonts/OpenSans-Bold.woff") format("woff"),
-    url("../fonts/OpenSans-Bold.woff2") format("woff2"),
+   font-family: "OpenSans-Bold";
+   src: url("../fonts/OpenSans-Bold.woff") format("woff"),
+   url("../fonts/OpenSans-Bold.woff2") format("woff2"),
    url("../fonts/OpenSans-Bold.ttf") format("truetype");
    font-style:normal;
 }
 
 @font-face {
-  font-family:'OpenSans-Regular';
-  font-style:normal;
-  font-weight: 400;
-  font-size: 20px;
-  letter-spacing: 1px;
-  color: #000000;
-  src:url("../fonts/OpenSans-Regular.woff2")
-}
-
-@font-face {
-  font-family:'OpenSans-Regular';
-  font-style:normal;
-  font-weight: 400;
-  font-size: 20px;
-  letter-spacing: 1px;
-  color: #000000;
-  src:url("../fonts/OpenSans.woff")
-}
-
-@font-face {
-  font-family:'OpenSans-Regular';
-  font-style:normal;
-  font-weight: 400;
-  font-size: 20px;
-  letter-spacing: 1px;
-  color: #000000;
-  src:url("../fonts/OpenSans-Regular.ttf")
+   font-family: "OpenSans-Regular";
+   src: url("../fonts/OpenSans-Regular.woff") format("woff"),
+   url("../fonts/OpenSans-Regular.woff2") format("woff2"),
+   url("../fonts/OpenSans-Regular.ttf") format("truetype");
+   font-style:normal;
 }
 
 
