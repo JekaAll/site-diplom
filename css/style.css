@@ -18,7 +18,7 @@
 
 
 h1 {
-  font-size: 90px;
+  font-size: 4.688vw;
   line-height: 100px;
   color: #ffffff;
   font-family: "OpenSans-Bold";
@@ -26,7 +26,7 @@ h1 {
 }
 
 h2 {
-  font-size: 80px;
+  font-size: 4.167vw;
   line-height: 60px;
   color: #e7e7e7;
   font-family: "OpenSans-Bold";
@@ -35,7 +35,7 @@ h2 {
 }
 
 h3 {
-  font-size: 36px;
+  font-size: 1.875vw;
   letter-spacing: 2px;
   color: #c1c1c1;
   font-family: "OpenSans-Bold";
@@ -46,7 +46,7 @@ h3 {
 p {
   font-family: "OpenSans-Regular";
   font-style: normal;
-  font-size: 20px;
+  font-size: 1.042vw;
   letter-spacing: 1px;
   color:#000000;
   font-weight: 400;
