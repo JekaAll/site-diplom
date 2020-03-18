@@ -1,32 +1,10 @@
 
 @font-face {
-  font-family:'OpenSans-Bold';
-  font-style: normal;
-  font-weight:400;
-  font-size: 20px;
-  letter-spacing: 1px;
-  color: #000000;
-  src:url("../fonts/OpenSans-Bold.woff")
-}
-
-@font-face {
-  font-family:'OpenSans-Bold';
-  font-style:normal;
-  font-weight: 400;
-  font-size: 20px;
-  letter-spacing: 1px;
-  color: #000000;
-  src:url("../fonts/OpenSans-Bold.woff2")
-}
-
-@font-face {
-  font-family:'OpenSans-Bold';
-  font-style:normal;
-  font-weight: 400;
-  font-size: 20px;
-  letter-spacing: 1px;
-  color: #000000;
-  src:url("../fonts/OpenSans-Bold.ttf")
+    src:  
+   url("../fonts/OpenSans-Bold.woff") format("woff"),
+    url("../fonts/OpenSans-Bold.woff2") format("woff2"),
+   url("../fonts/OpenSans-Bold.ttf") format("truetype");
+   font-style:normal;
 }
 
 @font-face {
