@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="288" height="264" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" id="svg_1">
+   <path d="m115.5,36.848l0,190.304l137.53,-95.152l-137.53,-95.152zm166.612,105.432l-172,119c-8.29,5.736 -19.612,-0.198 -19.612,-10.28l0,-238c0,-10.082 11.321,-16.016 19.612,-10.28l172,119c7.184,4.97 7.184,15.59 0,20.56z" fill="#ffffff" fill-rule="nonzero" id="svg_2"/>
+   <path d="m42.5,107l107,0a8,8 0 1 0 0,-16l-107,0a8,8 0 1 0 0,16zm0,70l107,0a8,8 0 1 0 0,-16l-107,0a8,8 0 1 0 0,16zm-34.5,-34l168,0a8,8 0 1 0 0,-16l-168,0a8,8 0 1 0 0,16z" fill="#ffffff" fill-rule="nonzero" id="svg_3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+ </g>
+</svg>
