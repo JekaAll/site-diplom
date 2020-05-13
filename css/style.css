@@ -45,7 +45,7 @@ h2 {
 
 h3 {
   font-family: "OpenSans-Bold";
-  font-size: max(min(20px), 1.875vw);
+  font-size: 1.875vw;
   line-height: 100%;
   color: #c1c1c1;
   text-transform: uppercase;
@@ -53,7 +53,7 @@ h3 {
 
 p {
   font-family: "OpenSans-Regular";
-  font-size: max(min(12px), 1.042vw);
+  font-size: 1.042vw;
   letter-spacing: 1px;
 }
 
