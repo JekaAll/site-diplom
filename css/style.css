@@ -102,7 +102,7 @@ p {
 .header-text {
   display: flex;
   flex-direction: column;
-  padding-top: 14.6vw;
+  margin-top: 14.6vw;
   color: #ffffff;
 }
 
@@ -121,7 +121,7 @@ p {
 
 .header-button {
   display: flex;
-  padding-top: 13.56vw;
+  margin-top: 13.56vw;
   align-self: center;
   justify-content: space-between;
 }
@@ -133,13 +133,13 @@ p {
 .svg-batton { 
   width: 51px;
   height: 51px;
-  padding: 0.4vw 25px 0 44px;
+  margin: 0 25px 10px 0;
 }
 
 .svg-batton-google {
   width: 51px;
   height: 51px;
-  padding: 0 25px 0 56px;
+  margin-right: 25px;
   align-self: center;
 }
  
@@ -147,15 +147,18 @@ p {
 .button-google  {
   display: flex;
   width: 311px;
-  height: 77px;
+  padding: 7px 0 7px 40px;
   border-radius: 50px;
   background-color: #5e42b0;
   border: none;
   cursor: pointer;
 }
  
+.button-google {
+  padding: 7px 0 7px 57px;
+}
+
 .button-apple {
-  margin-bottom: 5px;
   margin-right: 2.09vw;
 }
  
@@ -205,6 +208,7 @@ p {
   display: flex;
   flex-direction: column;
   width: 100vw;  
+  position: relative;
 }
 
 .block-footbaler {
@@ -213,7 +217,7 @@ p {
 }
 
 .title-chapter-players {
-  padding: 6vw 9.3vw 5.55vw 52.5vw;
+  padding: 6vw 9.3vw 5.55vw 53.5vw;
   color: #e7e7e7;
 }
 
@@ -224,7 +228,7 @@ p {
   position: absolute;
   align-self: end;
   right: 50vw;
-  padding-top: 1.56vw;
+  top: 2vw;
 }
 
 .picture-footbaler {
@@ -237,7 +241,7 @@ p {
   display: inline-flex;
   align-items: start;
   text-transform: uppercase;
-  padding-bottom: 1.3vw;
+  margin-right: 0.6vw;
 }
 
 .block-number,
@@ -291,13 +295,15 @@ p {
 
 
 .title-chapter-basketbal {
-  padding: 6.25vw 9.4vw 5.7vw 9.4vw;
+  padding: 0 9.4vw 5.7vw 9.4vw;
   color: #e7e7e7;
 }
 
 .block-basketbal {
   display: flex;
   flex-direction: column;
+  position: relative;
+  padding-top: 6.25vw;
 }
 
 .basketbal {
@@ -306,7 +312,8 @@ p {
   width: 54vw;
   height: auto;
   position: absolute;
-  padding: 1.5vw 5vw 0 0;
+  top: 1vw;
+  right: 4.5vw;
 }
 
 .picture-basketbal {
@@ -319,7 +326,7 @@ p {
   display: inline-flex;
   align-items: start;
   text-transform: uppercase;
-  padding-bottom: 1.4vw;
+  margin-bottom: 1.4vw;
 }
 
 .block-basketbal-one{
@@ -371,7 +378,7 @@ p {
 
 .news-text-men {
   flex-grow: 1;
-  display: flex;
+  padding: 13.2vw 13.7vw 0 7vw;
   flex-direction: column;
 } 
 
@@ -391,7 +398,6 @@ p {
 .news-block-two {
   display: flex;
   flex-grow: 1;
-  width: 100vw;
   height: 37.33vw;
 }
 
@@ -462,11 +468,11 @@ p {
 }
 
 .text-block {
-  padding: 13.2vw 13.7vw 0 7vw;
+
 }
 
 .text {
-  padding-top: 6.3vw;
+  margin-top: 6.3vw;
   font-size: 1.250vw;
 }
 
@@ -475,7 +481,7 @@ p {
 
 
 .logo-footer {
-  padding: 13.5vw 0 2.6vw 0;
+  margin-top: 13.5vw;
   z-index: 1;
 }
  
@@ -492,7 +498,6 @@ p {
   display: flex;
   width: 100vw;  
   z-index: 3;
-  padding-top: 12vw;
   justify-content: center;
   align-items: center;
   flex-flow: wrap;
@@ -528,7 +533,6 @@ p {
  
 .footer-text-title {
   color: #ffffff;
-  padding-left: 2vw;
   font-family: "OpenSans-Bold";
   text-transform: uppercase;
   font-size: 4.1vw;
@@ -542,7 +546,6 @@ p {
   color: #a496ca;
   font-family: "OpenSans-Regular";
   font-weight: 400;
-  padding-left: 2vw;
   text-transform: uppercase;
 }
  
@@ -555,8 +558,7 @@ p {
   background-position: center center;
   background-size: cover;
   position: relative;
-  padding: 0;
-  margin: 0;
+  padding-bottom: 2.6vw;
 }
  
 .footer-block-news::after {
@@ -573,6 +575,7 @@ p {
   display: flex;
   flex-direction: column;
   width: 100%;
+  padding-top: 12vw;
 }
  
  /*Секция кнопок подвал*/
@@ -582,7 +585,7 @@ p {
   padding: 0 9.4vw 0 9.4vw;
   align-self: center;
   justify-content: space-between;
-  padding-top: 8.44vw;
+  margin-top: 8.44vw;
   z-index: 1;
 }
 
@@ -620,11 +623,11 @@ p {
   }
 
   .header-content {
-    padding: 5.3vw 9vw 11.8vw 9vw;
+    padding: 5.3vw 9vw 11.5vw 9vw;
   }
 
   .header-text {
-    padding-top: 14.6vw;
+    margin-top: 14.6vw;
   }
   
   .block-two-text {
@@ -632,26 +635,23 @@ p {
   }
 
   .header-button {
-    padding-top: 41.45vw;
+    margin-top: 41.45vw;
     flex-wrap: nowrap;
   }
 
   .svg-batton { 
     width: 6.93vw;
     height: 6.93vw;
-    padding: 1vw 3vw 1.5vw 5vw;
   }
-  
+
   .svg-batton-google {
     width: 6.93vw;
     height: 6.93vw;
-    padding: 1.5vw 3.3vw 1.5vw 7.5vw;
   }
 
   .button-apple,
   .button-google {
     width: 41vw;
-    height: 10vw;
   }
 
   .text-batton {
@@ -665,7 +665,7 @@ p {
   }
 
   .block-number::after {
-    height: 0.52vw;
+    height: 0.6vw;
   }
 
   .block-number-growth::after {
@@ -676,10 +676,8 @@ p {
     height: 0.52vw;
   }
 
-
-
   .title-chapter-players {
-    padding: 11.1vw 9.3vw 7.4vw 37vw;
+    padding: 0 9.3vw 7.4vw 37vw;
   }
 
 
@@ -689,6 +687,7 @@ p {
   .block-footbaler {
     width: 100vw;
     position: relative;
+    padding-top: 11.1vw;
   }
 
 
@@ -699,6 +698,10 @@ p {
   .block-two,
   .block-three {
     padding: 5vw 3.3vw 5vw 37vw;
+  }
+
+  .block-number, .block-number-growth {
+    font-size: 2.347vw;
   }
 
   .footbaler {
@@ -715,12 +718,15 @@ p {
   .number-connection-basketbal, 
   .number-collaboration-basketbal, 
   .number-growth-basketbal {
-    padding-bottom: 4vw;
+    margin-bottom: 4vw;
   }
 
 
   /* Блок баскетболист*/
 
+  .block-basketbal {
+    padding-top: 11.5vw;
+  }
 
   .block-basketbal-one {
     display: flex;
@@ -736,13 +742,13 @@ p {
   }
 
   .title-chapter-basketbal {
-    padding: 11.4vw 9.4vw 7vw 3.3vw;
+    padding: 0 9.4vw 7vw 3.3vw;
   }
 
   .basketbal {
     width: 56vw;
-    padding: 1.5vw 0 0 0;
-    top: 225vw;
+    top: 7vw;
+    right: 0;
   }
 
   .news-block-men, 
@@ -762,17 +768,24 @@ p {
   }
 
   .text-block {
-    padding: 11.9vw 9vw 13vw 3.4vw
+    padding: 0;
+  }
+
+  .news-text-men {
+    padding: 11.6vw 13.7vw 13.1vw 7vw;
   }
 
   .news-text-coach {
     flex-basis: 0;
-    padding: 11.9vw 7vw 13vw 3.4vw
+    padding: 11.6vw 13.7vw 13.1vw 7vw;
   }
 
   .text {
     font-size: 3.158vw;
+    margin-top: 5vw;
+    line-height: 28px;
   }
+
   .post-number,
   .post-number-coach {
     width: 15vw;
@@ -795,7 +808,7 @@ p {
 
 
 
-  .batton-download {
+  .data-section {
     padding-top: 16.82vw;
   }
 
@@ -829,13 +842,16 @@ p {
   }
 
   .section-button-footer {
-    padding-top: 38vw;
+    margin-top: 38vw;
   }
 
   .logo-footer {
-    padding-top: 6.7vw;
+    margin-top: 6.8vw;
   }
+
 }
+
+
 
 @media only screen and (min-width: 320px) and (max-width: 420px) {
   
@@ -845,7 +861,7 @@ p {
   }
 
   h2 {
-    font-size: 15.6vw;
+    font-size: 15.625vw;
   }
 
   h3 {
@@ -853,7 +869,8 @@ p {
   }
 
   p {
-    font-size: 4.688vw;
+    font-size: 5vw;
+    line-height: 18px;
   }
 
   /*Шапка сайта*/
@@ -873,7 +890,7 @@ p {
   }
 
   .header-text {
-    padding-top: 42.5vw;
+    margin-top: 42.5vw;
   }
 
   .block-one-text {
@@ -886,30 +903,32 @@ p {
 
   .header-button {
     flex-flow: column wrap;
-    padding-top: 89px;
+    margin-top: 89px;
   }
 
   .button-apple, .button-google {
     width: 280px;
     height: 36px;
+    padding: 0;
   }
 
   .button-apple {
     margin-bottom: 15px;
     margin-right: 0px;
+    padding: 6px 0 6px 0;
   }
 
   .svg-batton {
     width: 23px;
     height: 23px;
-    padding: 0 10px 0 84px;
+    margin: 0 10px 5px 84px;
     align-self: center;
   }
 
   .svg-batton-google {
     width: 23px;
     height: 23px;
-    padding: 0 10px 0 84px;
+    margin: 0 10px 0 84px;
     align-self: center;
   }
 
@@ -994,14 +1013,14 @@ p {
   .number-connection, 
   .number-collaboration, 
   .number-growth {
-    padding-bottom: 9vw;
+    margin-bottom: 9vw;
   }
 
   .basketbal {
-    width: 90.6vw;
-    padding: 0;
+    width: 94vw;
     align-self: center;
-    padding: 30vw 0 0 0;
+    top: 35vw;
+    right: 2.5vw;
   }
 
   .title-chapter-basketbal {
@@ -1041,10 +1060,15 @@ p {
     width: 100vw;
   }
 
-  .text-block,
-  .news-text-coach {
-    padding: 10vw 5.6vw 23.44vw 5.6vw;
+  .news-text-men {
+    padding: 11vw 5.6vw 22vw 5.6vw;
   }
+
+  .text {
+    margin-top: 6.3vw;
+    font-size: 5vw;
+    line-height: 20px;
+}
 
   .number {
     font-size: 4.375vw;
@@ -1064,7 +1088,11 @@ p {
 
   .footer-block-news {
     background-image: url("../images/game_767.jpg");
-    padding: 100px 20px 0 20px;
+    padding: 100px 20px 10px 20px
+  }
+
+  .data-section {
+    padding: 0;
   }
 
   .footer-batton {
@@ -1097,7 +1125,7 @@ p {
 
   .section-button-footer {
     flex-flow: wrap;
-    padding-top: 23.75vw;
+    margin-top: 24vw;
   }
 
 
