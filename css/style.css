@@ -214,16 +214,17 @@ p {
 .block-footbaler {
   display: flex;
   flex-direction: column;
+  padding-top: 6vw;
 }
 
 .title-chapter-players {
-  padding: 6vw 9.3vw 5.55vw 53.5vw;
+  padding: 0 9.3vw 5.55vw 52.5vw;
   color: #e7e7e7;
 }
 
 .footbaler {
   display: flex;
-  width: 30vw;
+  width: 31.2vw;
   height: auto;
   position: absolute;
   align-self: end;
@@ -241,7 +242,7 @@ p {
   display: inline-flex;
   align-items: start;
   text-transform: uppercase;
-  margin-right: 0.6vw;
+  margin-bottom: 1.7vw;
 }
 
 .block-number,
@@ -529,7 +530,7 @@ p {
 .footer-text {
   display: flex;
   flex-direction: column;
-  margin-left: 1.4vw
+  margin-left: 1.4vw;
 }
  
 .footer-text-title {
