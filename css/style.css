@@ -529,6 +529,7 @@ p {
 .footer-text {
   display: flex;
   flex-direction: column;
+  margin-left: 1.4vw
 }
  
 .footer-text-title {
