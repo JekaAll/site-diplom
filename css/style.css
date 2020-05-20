@@ -679,7 +679,7 @@ p {
   }
 
   .title-chapter-players {
-    padding: 0 9.3vw 7.4vw 41vw;
+    padding: 0 9.3vw 7.4vw 36vw;
   }
 
 
@@ -694,12 +694,12 @@ p {
 
 
   .block-one {
-    padding: 0 3.3vw 5vw 41vw;
+    padding: 0 4.2vw 5vw 36vw;
   }
 
   .block-two,
   .block-three {
-    padding: 5vw 3.3vw 5vw 41vw;
+    padding: 5vw 4.2vw 5vw 36vw;
   }
 
   .block-number, .block-number-growth {
@@ -710,7 +710,7 @@ p {
     width: 60vw;
     padding: 0;
     left: -20vw;
-    top: 14vw;
+    top: 12%;
     height: 90vw;
   }
 
@@ -733,7 +733,7 @@ p {
   .block-basketbal-one {
     display: flex;
     flex-direction: column;
-    padding: 0 39vw 5.2vw 3.3vw;
+    padding: 0 42vw 5.2vw 3.3vw;
   }
 
   .block-basketbal-two, 
@@ -749,7 +749,7 @@ p {
 
   .basketbal {
     width: 56vw;
-    top: 7vw;
+    top: 5.5%;
     right: 0;
   }
 
@@ -774,12 +774,12 @@ p {
   }
 
   .news-text-men {
-    padding: 11.6vw 13.7vw 13.1vw 4.2vw;
+    padding: 11.6vw 9vw 13.1vw 4.2vw;
   }
 
   .news-text-coach {
     flex-basis: 0;
-    padding: 11.6vw 13.7vw 13.1vw 4.2vw;
+    padding: 11.6vw 9vw 13.1vw 4.2vw;
   }
 
   .text {
@@ -957,10 +957,9 @@ p {
 
   .footbaler {
     width: 55vw;
-    top: 31vw;
+    top: 9.5%;
     left: unset;
     align-self: center;
-    padding: 7.5vw 0 0 0;
     right: unset;
   }
 
@@ -1024,7 +1023,7 @@ p {
   .basketbal {
     width: 94vw;
     align-self: center;
-    top: 34vw;
+    top: 9%;
     right: 2.5vw;
   }
 
