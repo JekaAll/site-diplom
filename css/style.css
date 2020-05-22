@@ -266,7 +266,7 @@ p {
   content: "";
   display: flex;
   height: 0.27vw;
-  border-radius: 25%;
+  border-radius: 25px;
   background: #fff;
   margin-top: 0.2vw;
 }
@@ -363,7 +363,7 @@ p {
   content: "";
   display: flex;
   height: 0.27vw;
-  border-radius: 25%;
+  border-radius: 25px;
   background: #fff;
   margin-top: 0.2vw;
 }
@@ -855,7 +855,7 @@ p {
 
 
 
-@media (max-device-width: 767px) and (-webkit-min-device-pixel-ratio: 2) {
+@media (min-device-width: 0px) and (max-device-width: 767px) {
   
   h1 {
     font-size: 8.75vw;
@@ -914,7 +914,6 @@ p {
   }
 
   .button-google {
-    width: 88vw;
     padding: 7px 0 7px 0;
   }
 
@@ -1049,6 +1048,7 @@ p {
   .news-block-two {
     display: unset;
     height: auto;
+    position: relative;
   }
 
   .post-number,
@@ -1057,7 +1057,13 @@ p {
     height: 21.25vw;
     position: absolute;
     left: 6.3%;
-    margin-top: 93vw;
+    top: 94vw;
+    margin: 0;
+  }
+
+  .picture-men {
+    width: 100vw;
+    height: 100%;
   }
 
   .picture-news {
@@ -1080,6 +1086,7 @@ p {
     line-height: 200%;
     margin-bottom: 15px;
     margin-top: 35%;
+    height: 1.56vw;
   }
 
 
