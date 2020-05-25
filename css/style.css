@@ -852,7 +852,7 @@ p {
 
 
 
-@media (min-width: 0px) and (max-width: 767px) {
+@media (max-width: 767px) {
   
   h1 {
     font-size: 8.75vw;
